@@ -1,4 +1,5 @@
 [YouTube]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 included-patches = "'Spoof device dimensions' 'Remove tracking query parameter' 'Minimized playback' 'Bypass URL redirects' 'Open links externally' 'Playback speed' 'Restore old video quality menu' 'Remember video quality' 'Copy video url' 'Premium heading' 'Return YouTube Dislike' 'SponsorBlock' 'Video ads' 'Hide ads'"
